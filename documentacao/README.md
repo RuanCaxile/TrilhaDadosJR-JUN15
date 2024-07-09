@@ -43,7 +43,7 @@ Após finalizar, o projeto já estará na sua máquina! Basta localizar e abrir 
 
     ├── analise_Dados.ipynb # Código Fonte no formato Jupyter Notebook com a resolução dos Desafios Propostos e os Processos
 
-├── documentacao # Pasta contendo o arquivo README.md que contém este arquivo de Documentação sobre este Repositório
+├── documentacao # Pasta contendo o arquivo README.md, que é este arquivo de Documentação sobre este Repositório.
     
     ├── README.md # Arquivo Markdown contendo a Documentação deste Repositório
 
