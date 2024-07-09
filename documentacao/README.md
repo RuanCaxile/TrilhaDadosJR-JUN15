@@ -35,16 +35,32 @@ Após finalizar, o projeto já estará na sua máquina! Basta localizar e abrir 
 
 ### 3. Estrutura do Repositório
 
-├── codigo_fonte_trilha # Pasta contendo o arquivo do Código Fonte e a Pasta carregamento_de_dados
+├── codigo_fonte_trilha # Pasta contendo o arquivo do Código Fonte e a Pasta carregamento_de_dados.
     
-    ├── carregamento_de_dados # Pasta contendo o arquivo vendas_cursos_tech.csv
+    ├── carregamento_de_dados # Pasta contendo o arquivo vendas_cursos_tech.csv.
     
-        ├── vendas_cursos_tech.csv # Arquivo CSV gerado a partir do Processo de Carregamento de Dados encontrado no Código Fonte
+        ├── vendas_cursos_tech.csv # Arquivo CSV gerado a partir do Processo de Carregamento de Dados encontrado no Código Fonte.
 
-    ├── analise_Dados.ipynb # Código Fonte no formato Jupyter Notebook com a resolução dos Desafios Propostos e os Processos
+    ├── analise_Dados.ipynb # Código Fonte no formato Jupyter Notebook com a resolução dos Desafios Propostos e os Processos.
 
-├── documentacao # Pasta contendo o arquivo README.md, que é este arquivo de Documentação sobre este Repositório.
+├── documentacao # Pasta contendo o arquivo README.md, que é este arquivo de Documentação sobre este Repositório, e também o arquivo LICENSE  que contém a licença que determina as normas de permissão que regem este repositório.
     
     ├── README.md # Arquivo Markdown contendo a Documentação deste Repositório
 
+    ├── LICENSE # Arquivo contendo as normas de permissão que regem este repositório
+
 ├── README.md # Arquivo Markdown do Repositório Original da Código Certo Coders
+
+### 4. Espaço Colaborativo
+
+Esse projeto é nosso, então sempre que ver uma possibilidade de evolução tanto no sentido de incrementar a Análise de Dados quanto em melhorias no Código Fonte existente. Estarei a disposição para ouvir Feedbacks e construir o conhecimento de forma colaborativa.
+
+### 5. Conecte-se Comigo!
+
+Se quiser ver um pouco mais do meu trabalho e quiser conversar sobre esse projeto, é só falar comigo diretamente pelo meu LinkedIn.
+
+[Ruan Carlos](https://www.linkedin.com/in/ruan-carlos-3658561ba/)
+
+### 6. Licença 
+
+Este projeto está licenciado sob a Licença MIT, veja o arquivo [LICENSE](LICENSE) para mais detalhes.
