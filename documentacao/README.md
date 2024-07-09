@@ -59,7 +59,7 @@ Esse projeto é nosso, então sempre que ver uma possibilidade de evolução tan
 
 Se quiser ver um pouco mais do meu trabalho e quiser conversar sobre esse projeto, é só falar comigo diretamente pelo meu LinkedIn.
 
-[Ruan Carlos](https://www.linkedin.com/in/ruan-carlos-3658561ba/)
+[Ruan Carlos | LinkedIn](https://www.linkedin.com/in/ruan-carlos-3658561ba/)
 
 ### 6. Licença 
 
