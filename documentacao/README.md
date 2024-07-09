@@ -63,4 +63,4 @@ Se quiser ver um pouco mais do meu trabalho e quiser conversar sobre esse projet
 
 ### 6. Licença 
 
-Este projeto está licenciado sob a Licença MIT, veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
