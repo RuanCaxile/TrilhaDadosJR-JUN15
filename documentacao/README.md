@@ -51,16 +51,20 @@ Após finalizar, o projeto já estará na sua máquina! Basta localizar e abrir 
 
 ├── README.md # Arquivo Markdown do Repositório Original da Código Certo Coders
 
-### 4. Espaço Colaborativo
+### 4. Sobre o Código Fonte
 
-Esse projeto é nosso, então sempre que ver uma possibilidade de evolução tanto no sentido de incrementar a Análise de Dados quanto em melhorias no Código Fonte existente. Estarei a disposição para ouvir Feedbacks e construir o conhecimento de forma colaborativa.
+O Código Fonte analise_Dados.ipynb, que está localizado na pasta codigo_fonte_trilha, possui tudo o que foi pedido no Repositório Oficial da Trilha de Dados da Código Certo Coders, assim, nele possui as respostas dos Desafios Propostos e o que é determinado em cada tópico abordado durante a explicação da implementação, ou seja, nele você encontrará o Processo de Carregamento de Dados, Exploração de Dados, Estatísticas Descritivas e Visualização de Dados. Por fim, toda célula de código presente no Código Fonte possui uma String de múltiplas linhas que expõe o objetivo daquela célula de código, e que fique claro que os procedimentos desenvolvidos para cada tópico (Carregamento de Dados, Exploração de Dados, Estatísticas Descritivas e Visualização de Dados) são feitos sempre após a célula de Markdown que indica o Processo.
 
-### 5. Conecte-se Comigo!
+### 5. Espaço Colaborativo
+
+Agora que você está pronto para explorar esse projeto! Lembre-se que esse Repositório é nosso, então sempre que ver uma possibilidade de evolução tanto no sentido de complementar a Análise de Dados quanto em melhorias no Código Fonte existente, estarei a disposição para ouvir Feedbacks e construir o conhecimento de forma colaborativa.
+
+### 6. Conecte-se Comigo!
 
 Se quiser ver um pouco mais do meu trabalho e quiser conversar sobre esse projeto, é só falar comigo diretamente pelo meu LinkedIn.
 
 [Ruan Carlos | LinkedIn](https://www.linkedin.com/in/ruan-carlos-3658561ba/)
 
-### 6. Licença 
+### 7. Licença 
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
