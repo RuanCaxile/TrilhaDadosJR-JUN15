@@ -61,7 +61,7 @@ Agora que você está pronto para explorar esse projeto! Lembre-se que esse Repo
 
 ### 6. Conecte-se Comigo!
 
-Se quiser ver um pouco mais do meu trabalho e quiser conversar sobre esse projeto, é só falar comigo diretamente pelo meu LinkedIn.
+Se quiser ver um pouco mais do meu trabalho e quiser conversar sobre esse projeto, é só falar comigo diretamente pelo meu LinkedIn e me seguir aqui no GitHub.
 
 [Ruan Carlos | LinkedIn](https://www.linkedin.com/in/ruan-carlos-3658561ba/)
 
